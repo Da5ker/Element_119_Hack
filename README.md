@@ -8,7 +8,9 @@
 
 ## Окружение
 Python 3.12
-'pip install -r requirements.txt'
+```
+pip install -r requirements.txt
+```
 
 ## Структура репозитория
 * feature_selection.ipynb - Выбор дескрипторов (XGBoost, Boruta)
