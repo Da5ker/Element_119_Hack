@@ -6,6 +6,10 @@
 
 **Организаторы:** СИБУР
 
+## Окружение
+Python 3.12
+'pip install -r requirements.txt'
+
 ## Структура репозитория
 * feature_selection.ipynb - Выбор дескрипторов (XGBoost, Boruta)
 * optuna_optimization.ipynb - Оптимизация гиперпараметров
